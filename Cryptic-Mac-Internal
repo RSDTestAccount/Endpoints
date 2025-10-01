@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-Internal",
   "Versions": {
-    "Software": "Version-1.0.1",
+    "Software": "Version-1.1.1",
     "Roblox": "version-3360cc788ced462d"
   },
-  "Changelog": "[+] Added decompress()\nAdded lz4decompress()\nAdded LuaU Drawing Library"
+  "Changelog": "Core:\n[+] Added Intel Support\n\n[+] Bypassed All Detection Vectors\n\nEnvironment:\n[+] Added getloadedmodules()\n[+] Added getrunningscripts()"
 }
