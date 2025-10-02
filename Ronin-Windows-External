@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.6.6",
-    "Roblox": "version-f6cd26d0e71b47c9"
+    "Software": "Version-3.6.7",
+    "Roblox": "version-494828652c274712"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nMovement:\n[+] Upgraded To Fully Server-Sided Desync\n\nNote: Our upgraded Desync is perfect for those Steal A Brainrot addicts. 😉"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n(This is a delayed announcement)"
 }
