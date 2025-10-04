@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-Internal",
   "Versions": {
-    "Software": "Version-1.1.2",
-    "Roblox": "version-c19e695f9cce4f80"
+    "Software": "Version-1.1.3",
+    "Roblox": "version-37e30b38ccca45d0"
   },
-  "Changelog": "Core:\n[+] Fixed Apple Support\n\n[+] Updated To Latest Roblox Version\n\nEnvironment:\n[+] Fixed request()\n[+] Fixed loadstring()"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
