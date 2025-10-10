@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-Internal",
   "Versions": {
-    "Software": "Version-1.2.3",
-    "Roblox": "version-37e30b38ccca45d0"
+    "Software": "Version-2.0.0",
+    "Roblox": "version-707cf2ddcf024b32"
   },
-  "Changelog": "Core:\n[+] Added Luarmor Support"
+  "Changelog": "Core:\n[+] Rewrote Module\n\n[+] Updated To Latest Roblox Version"
 }
