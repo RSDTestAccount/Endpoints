@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.6.8",
-    "Roblox": "version-d34359a5577645e2"
+    "Software": "Version-3.6.9",
+    "Roblox": "version-7a4a5d7d1fb3449f"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n(This is a delayed announcement)"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n[+]Updated Apocalypse Rising 2 Support\n\nAiming:\n[+]Fixed Silent Aim\n\nVisuals:\n[+] Improved Chams Optimization\n\n(This is a delayed announcement)"
 }
