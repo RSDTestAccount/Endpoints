@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.7.0",
-    "Roblox": "version-4aeb17bd13994560"
+    "Software": "Version-3.7.1",
+    "Roblox": "version-889d2588b25a43d1"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n[+] Fixed Apocalypse Rising 2 Support"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Increased ViewMatrix Cache Speeds\n\n[+] Improved Visuals\n(This is a delayed announcement)"
 }
