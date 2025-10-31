@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-Internal",
   "Versions": {
-    "Software": "Version-2.1.0",
-    "Roblox": "version-707cf2ddcf024b32"
+    "Software": "Version-2.1.1",
+    "Roblox": "version-6e8186c3f6ce4303"
   },
-  "Changelog": "Core:\n[+] Added Console Redirection\n\nEnvironment:\n[+] Added isscriptable()\n[+] Added setscriptable()\n[+] Added getcallbackvalue()\n[+] Added gethiddenproperty()\n[+] Added sethiddenproperty()\n[+] Rewrote getgc()"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
