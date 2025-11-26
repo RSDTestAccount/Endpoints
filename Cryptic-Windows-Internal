@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-Internal",
   "Versions": {
-    "Software": "Version-0.0.1",
-    "Roblox": "version-31fc142272764f02"
+    "Software": "Version-1.0.0",
+    "Roblox": "version-e380c8edc8f6477c"
   },
-  "Changelog": "[+] Updated To Latest Roblox Version"
+  "Changelog": "Environment:\n[+] Added getconnections()\n\n[+] Improved getrenv()"
 }
