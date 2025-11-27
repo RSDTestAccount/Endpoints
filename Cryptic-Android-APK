@@ -1,8 +1,8 @@
 {
   "Platform": "Android-APK",
   "Versions": {
-    "Software": "Version-2.698.937",
-    "Roblox": "version-2.698.937"
+    "Software": "Version-2.700.937",
+    "Roblox": "version-2.700.937"
   },
-  "Changelog": "[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Added Proper Error Handling\n\n[+] Improved Speed\n[+] Improved Stability\n[+] Improved Execution\n[+] Improved Performance\n[+] Improved Teleport Handler\n[+] Improved Experience Join Handler\n\n[+] Emulated New Anti-Tamper\n\nEnvironment:\n[+] Added Fully Undetected hookfunction()\n\n[+] Fixed debug.getstack()\n[+] Fixed getscriptclosure()\n[+] Fixed getrunnningscripts()\n[+] Fixed Websocket.connect()\n\nKey System:\n[+] Added Automatic Key Checking\n[+] Added Linkvertise Checkpoints Option\n\n[+] Fixed Keys Not Saving\n\nUser Interface:\n[+] Fixed License Duration Tracker\n\n[-] Removed Button Animations"
 }
