@@ -4,5 +4,5 @@
     "Software": "Version-2.700.937",
     "Roblox": "version-2.700.937"
   },
-  "Changelog": "User Interface:\n[+] Fixed UI Load Failure\n[+] Fixed UI Performance Bottlenecks\n[+] Fixed Script Execution Vulnerability\n[+] Fixed Configurations & Keys Exposed To Workspace\n\n[+] Patched Asset Detections"
+  "Changelog": "Core:\n[+] Fixed File System"
 }
