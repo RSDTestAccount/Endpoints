@@ -4,5 +4,5 @@
     "Software": "Version-2.700.937",
     "Roblox": "version-2.700.937"
   },
-  "Changelog": "Core:\n[+] Fixed File System"
+  "Changelog": "User Interface:\n[+] Fixed UI Load Failure"
 }
