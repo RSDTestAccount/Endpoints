@@ -4,5 +4,5 @@
     "Software": "Version-2.700.937",
     "Roblox": "version-2.700.937"
   },
-  "Changelog": "User Interface:\n[+] Fixed UI Load Failure"
+  "Changelog": "Core:\n[+] Fixed Auto Execute\n\n[+] Improved Stability\n\nUser Interface:\n[+] Fixed Home Scripts\n[+] Fixed Inaccurate Key Duration Tracking"
 }
