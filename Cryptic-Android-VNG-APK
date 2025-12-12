@@ -1,8 +1,8 @@
 {
   "Platform": "Android-VNG-APK",
   "Versions": {
-    "Software": "Version-2.689.880",
-    "Roblox": "version-2.689.880"
+    "Software": "Version-2.700.937",
+    "Roblox": "version-2.700.937"
   },
-  "Changelog": "[+] Improved Stability\n[+] Introduced New User Interface"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Emulated New Anti-Tamper"
 }
