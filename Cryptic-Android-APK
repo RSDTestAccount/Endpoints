@@ -1,8 +1,8 @@
 {
   "Platform": "Android-APK",
   "Versions": {
-    "Software": "Version-2.700.937",
-    "Roblox": "version-2.700.937"
+    "Software": "Version-2.702.622",
+    "Roblox": "version-2.702.622"
   },
-  "Changelog": "Core:\n[+] Fixed Auto Execute\n\n[+] Improved Stability\n\nUser Interface:\n[+] Fixed Home Scripts\n[+] Fixed Inaccurate Key Duration Tracking"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Bypassed New Detections"
 }
