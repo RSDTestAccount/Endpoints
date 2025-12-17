@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-Internal",
   "Versions": {
-    "Software": "Version-2.1.1",
-    "Roblox": "version-6e8186c3f6ce4303"
+    "Software": "Version-2.2.1",
+    "Roblox": "version-ae027c932bf54833"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Improved Stability\n[+] Improved Performance\n\n[-] Disabled Yielding\n\nEnvironment:\n[+] Added filtergc()\n[+] Added getactors()\n[+] Added firesignal()\n[+] Added isparallel()\n[+] Added crypt.hash()\n[+] Added crypt.hmac()\n[+] Added run_on_actor()\n[+] Added crypt.random()\n[+] Added crypt.encrypt()\n[+] Added crypt.decrypt()\n[+] Added run_on_thread()\n[+] Added getconnections()\n[+] Added getactorthreads()\n[+] Added get_comm_channel()\n[+] Added crypt.generatekey()[+] Added getactorfromthread()\n[+] Added crypt.generatebytes()\n[+] Added create_comm_channel()\n[+] Added zstdcompress To Crypt Table\n[+] Added zstddecompress To Crypt Table\n\n[+] Fixed Drawing Library Image Support\n\nUser Interface:\n[+] Reworked Settings Page\n\n[+] Fixed Preset Saving\n[+] Fixed 'Save File' Button\n[+] Fixed 'Open File' Button\n[+] Fixed Incorrect Default Font\n\n[-] Removed Theme Saturation\n[-] Removed Theme Image Blur\n[-] Removed Tiled User Theme Image"
 }
