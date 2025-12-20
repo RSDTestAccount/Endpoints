@@ -4,5 +4,5 @@
     "Software": "Version-2.702.622",
     "Roblox": "version-2.702.622"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Bypassed New Detections"
+  "Changelog": "User Interface:\n[+] Added Button Animations\n[+] Added Key System Fail-Safe\n\n[+] Fixed Script Searching\n[+] Fixed Saved Scripts Load Failure\n\n[+] Improved Performance"
 }
