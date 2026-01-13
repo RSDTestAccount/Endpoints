@@ -1,8 +1,8 @@
 {
   "Platform": "Android-APK",
   "Versions": {
-    "Software": "Version-2.702.622",
-    "Roblox": "version-2.702.622"
+    "Software": "Version-2.703.1353",
+    "Roblox": "version-2.703.1353"
   },
-  "Changelog": "User Interface:\n[+] Added Button Animations\n[+] Added Key System Fail-Safe\n\n[+] Fixed Script Searching\n[+] Fixed Saved Scripts Load Failure\n\n[+] Improved Performance"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
