@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-Internal",
   "Versions": {
-    "Software": "Version-1.2.3",
-    "Roblox": "version-89d89cb2d6b649be"
+    "Software": "Version-1.2.4",
+    "Roblox": "version-1588a9c58c674e38"
   },
-  "Changelog": "Core:\n[+] Fixed A Teleport Handler Crash\n[+] Fixed Drawing Library Scale Issues\n\nEnvironment: [+] Improved request()\n[+] Improved httpget()"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nUser Interface:\n[+] Introduced Official User Interface"
 }
