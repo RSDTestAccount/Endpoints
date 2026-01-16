@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.7.9",
-    "Roblox": "version-89d89cb2d6b649be"
+    "Software": "Version-3.8.1",
+    "Roblox": "version-1588a9c58c674e38"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nMovement:\n[+] Fixed Desync"
 }
