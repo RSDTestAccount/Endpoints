@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-Internal",
   "Versions": {
-    "Software": "Version-1.2.4",
+    "Software": "Version-1.2.5",
     "Roblox": "version-1588a9c58c674e38"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nUser Interface:\n[+] Introduced Official User Interface"
+  "Changelog": "User Interface:\n[+] Added Full Monaco Customizability\n[+] Added Full Syntax Highlighting Customizability\n\n[+] Fixed Saving Issues\n[+] Fixed Key Status Information\n[+] Fixed Searched Scripts Images\n\n[+] Made Minor Adjustments & Fixes Across Entire Interface"
 }
