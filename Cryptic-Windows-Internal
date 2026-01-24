@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-Internal",
   "Versions": {
-    "Software": "Version-1.2.5",
-    "Roblox": "version-1588a9c58c674e38"
+    "Software": "Version-1.2.6",
+    "Roblox": "version-8b8c34790f814a73"
   },
-  "Changelog": "User Interface:\n[+] Added Full Monaco Customizability\n[+] Added Full Syntax Highlighting Customizability\n\n[+] Fixed Saving Issues\n[+] Fixed Key Status Information\n[+] Fixed Searched Scripts Images\n\n[+] Made Minor Adjustments & Fixes Across Entire Interface"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Added Error Redirection\n\nUser Interface:\n[+] Added Kill Roblox\n[+] Added Streamproof\n[+] Added Always On Top\n[+] Added Page Animations\n[+] Added Workspace Shortcut\n[+] Added Explorer Scripts Dragging & Dropping\n[+] Added Full Roblox API To Editor Autocompletion\n\n[+] Fixed Multi-Instance\n[+] Fixed Command Palette\n[+] Fixed Automatic Required Binary Download\n\n[+] Improved State Saving Persistence\n\n[+] Made Minor Adjustments & Fixes Across Entire Interface"
 }
