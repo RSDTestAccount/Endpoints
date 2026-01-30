@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.8.2",
-    "Roblox": "version-8b8c34790f814a73"
+    "Software": "Version-3.8.3",
+    "Roblox": "version-4464ba36ceea461e"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nAiming:\n[+] Fixed uSilent"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n(This is a delayed announcement)"
 }
