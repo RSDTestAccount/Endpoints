@@ -1,8 +1,8 @@
 {
   "Platform": "Android-32-Bit-APK",
   "Versions": {
-    "Software": "Version-2.704.1060",
-    "Roblox": "version-2.704.1060"
+    "Software": "Version-2.705.924",
+    "Roblox": "version-2.705.924"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Fixed Crashes"
 }
