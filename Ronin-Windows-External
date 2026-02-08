@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.8.4",
-    "Roblox": "version-3e7a57d7e53b4881"
+    "Software": "Version-3.8.5",
+    "Roblox": "version-80c7b8e578f241ff"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Users Successfully Migrated"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
