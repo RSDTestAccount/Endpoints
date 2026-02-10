@@ -1,8 +1,8 @@
 {
   "Platform": "Android-VNG-APK",
   "Versions": {
-    "Software": "Version-2.704.1057",
-    "Roblox": "version-2.704.1057"
+    "Software": "Version-2.706.750",
+    "Roblox": "version-2.706.750"
   },
   "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
