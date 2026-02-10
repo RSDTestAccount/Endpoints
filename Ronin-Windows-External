@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-3.8.5",
+    "Software": "Version-3.8.6",
     "Roblox": "version-80c7b8e578f241ff"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Fixed Authentication Bugs"
 }
