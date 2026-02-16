@@ -1,8 +1,8 @@
 {
   "Platform": "Android-APK",
   "Versions": {
-    "Software": "Version-2.706.750",
-    "Roblox": "version-2.706.750"
+    "Software": "Version-2.707.734",
+    "Roblox": "version-2.707.734"
   },
   "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
