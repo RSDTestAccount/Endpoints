@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.0",
+    "Software": "Version-4.0.1",
     "Roblox": "version-ad5d3e2906444472"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] Fixed New Fast Flag Issues\n Settings:\n[+] Added M1 Binding"
 }
