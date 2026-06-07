@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.1",
+    "Software": "Version-4.0.2",
     "Roblox": "version-ad5d3e2906444472"
   },
-  "Changelog": "Core:\n[+] Fixed New Fast Flag Issues\n Settings:\n[+] Added M1 Binding"
+  "Changelog": "Core:\n[+] Added Game-Specific Auto-Saving\n\nAiming:\n[+] Added Target Orbiting\n\nPlayer List:\n[+] Added Player List\n[+] Added Player Spectate\n[+] Added Player Teleport"
 }
