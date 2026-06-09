@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.2",
-    "Roblox": "version-ad5d3e2906444472"
+    "Software": "Version-4.0.3",
+    "Roblox": "version-76173e47a79145c7"
   },
-  "Changelog": "Core:\n[+] Added Game-Specific Auto-Saving\n\nAiming:\n[+] Added Target Orbiting\n\nPlayer List:\n[+] Added Player List\n[+] Added Player Spectate\n[+] Added Player Teleport"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\Visuals:\n[+] Added Friendly Highlighting\n[+] Added Priority Highlighting\n\nPlayer List:\n[+] Added Friendly Status\n[+] Added Priority Status"
 }
